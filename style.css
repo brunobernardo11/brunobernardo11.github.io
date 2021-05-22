@@ -22,7 +22,6 @@
 	position: absolute;
 	background-image: url("Imagens/imagem-inicial2.jpg");
 	overflow: hidden;
-	opacity: 0.95;
 	object-fit: cover;
 	animation: zoom 17s forwards;
 	background-repeat: no-repeat;
